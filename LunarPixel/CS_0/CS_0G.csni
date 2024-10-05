@@ -1,0 +1,13 @@
+*************************
+/ GAMES
+<div class="game-card" data-aos="flip-right">
+                <img src="images/game2.jpg" alt="Game 2">
+                <h3>SATS</h3>
+                <p>Defend your kingdom and fight against dark forces in this 2D platformer.</p>
+            </div>
+            <div class="game-card" data-aos="flip-right">
+                <img src="images/game2.jpg" alt="Game 2">
+                <h3>The Last Journey</h3>
+                <p>Defend your kingdom and fight against dark forces in this 2D platformer.</p>
+            </div>
+*************************
